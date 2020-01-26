@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ovooriehah.angelayang.design/sitemap.xml
